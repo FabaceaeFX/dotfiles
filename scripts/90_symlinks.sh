@@ -9,7 +9,7 @@ mkdir -p "$HOME/.config"
 mkdir -p "$HOME/.config/i3"
 
 # i3
-ln -sf "$HOME/dotfiles/i3/*" "$HOME/.config/i3/config"
+ln -sf "$HOME/dotfiles/i3/config" "$HOME/.config/i3/config"
 # tmux
 ln -sf "$HOME/dotfiles/tmux/tmux.conf" "$HOME/.tmux.conf"
 # neovim
