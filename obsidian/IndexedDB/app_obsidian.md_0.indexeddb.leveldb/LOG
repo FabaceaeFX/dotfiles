@@ -1,0 +1,30 @@
+2025/12/21-10:42:23.613 fe9 Reusing MANIFEST /home/fabaceae/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/21-10:42:23.613 fe9 Recovering log #64
+2025/12/21-10:42:23.689 fe9 Reusing old log /home/fabaceae/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000064.log 
+2025/12/22-14:07:15.785 fe9 Level-0 table #69: started
+2025/12/22-14:07:15.829 fe9 Level-0 table #69: 1348688 bytes OK
+2025/12/22-14:07:15.832 fe9 Delete type=0 #64
+2025/12/22-14:07:17.310 10d6 Compacting 1@1 + 1@2 files
+2025/12/22-14:07:17.334 10d6 Generated table #70@1: 1344 keys, 145253 bytes
+2025/12/22-14:07:17.335 10d6 Compacted 1@1 + 1@2 files => 145253 bytes
+2025/12/22-14:07:17.336 10d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/22-14:07:17.336 10d6 Delete type=2 #69
+2025/12/22-14:07:17.336 10d6 Delete type=2 #66
+2025/12/22-18:10:36.876 fe9 Level-0 table #72: started
+2025/12/22-18:10:36.897 fe9 Level-0 table #72: 1373882 bytes OK
+2025/12/22-18:10:36.901 fe9 Delete type=0 #68
+2025/12/22-18:11:15.527 fe9 Compacting 1@1 + 1@2 files
+2025/12/22-18:11:15.545 fe9 Generated table #73@1: 1520 keys, 176851 bytes
+2025/12/22-18:11:15.546 fe9 Compacted 1@1 + 1@2 files => 176851 bytes
+2025/12/22-18:11:15.547 fe9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/22-18:11:15.547 fe9 Delete type=2 #72
+2025/12/22-18:11:15.548 fe9 Delete type=2 #70
+2025/12/23-09:39:31.470 fe9 Level-0 table #75: started
+2025/12/23-09:39:31.495 fe9 Level-0 table #75: 1400764 bytes OK
+2025/12/23-09:39:31.497 fe9 Delete type=0 #71
+2025/12/23-10:44:27.872 10d6 Compacting 1@1 + 1@2 files
+2025/12/23-10:44:27.891 10d6 Generated table #76@1: 1594 keys, 188681 bytes
+2025/12/23-10:44:27.891 10d6 Compacted 1@1 + 1@2 files => 188681 bytes
+2025/12/23-10:44:27.893 10d6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/23-10:44:27.893 10d6 Delete type=2 #75
+2025/12/23-10:44:27.893 10d6 Delete type=2 #73
