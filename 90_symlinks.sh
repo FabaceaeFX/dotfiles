@@ -15,6 +15,7 @@ rm -rf "$HOME/.config/nvim"
 rm -rf "$HOME/.zshrc"
 rm -rf "$HOME/.zprofile"
 rm -rf "$HOME/.oh-my-zsh"
+rm -rf "$HOME/.Xresources"
 # i3
 ln -sf "$CURRDIR/i3/config" "$HOME/.config/i3/config"
 # tmux
@@ -25,3 +26,4 @@ ln -s "$CURRDIR/nvim" "$HOME/.config/nvim"
 ln -s "$CURRDIR/zsh/.zshrc" "$HOME/.zshrc"
 ln -s "$CURRDIR/zsh/.zprofile" "$HOME/.zprofile"
 ln -s "$CURRDIR/zsh/.oh-my-zsh" "$HOME/.oh-my-zsh"
+ln -s "$CURRDIR/.Xresources" "$HOME/.Xresources"
