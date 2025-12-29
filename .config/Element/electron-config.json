@@ -1,0 +1,17 @@
+{
+	"warnBeforeExit": true,
+	"minimizeToTray": true,
+	"spellCheckerEnabled": true,
+	"autoHideMenuBar": true,
+	"disableHardwareAcceleration": false,
+	"enableContentProtection": false,
+	"safeStorageBackend": "gnome_libsecret",
+	"locale": [
+		"en"
+	],
+	"safeStorage": {
+		"@fabaceae:matrix-org|o5viJ9zPVH": "djExl1aZDxcea5oihR1gTTkIf2lD/W/BM47XwDFtaHEH1TbJ7381rjn8x7JC4NLZx1nX",
+		"seshat|@fabaceae:matrix-org|o5viJ9zPVH": "djExQdgM8QzRIT98aOUf9tI0pVo4DDIC1l+SJ0v1UcAGjrwL8WK0THKE+F9DZdQDkS8x"
+	},
+	"safeStorageBackendOverride": true
+}

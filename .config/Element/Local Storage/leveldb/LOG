@@ -1,0 +1,21 @@
+2025/09/20-11:11:34.438 75f81 Reusing MANIFEST /home/fabaceae/.config/Element/Local Storage/leveldb/MANIFEST-000001
+2025/09/20-11:11:34.446 75f81 Recovering log #39
+2025/09/20-11:11:34.446 75f81 Reusing old log /home/fabaceae/.config/Element/Local Storage/leveldb/000039.log 
+2025/09/20-12:37:34.585 75f82 Level-0 table #43: started
+2025/09/20-12:37:34.616 75f82 Level-0 table #43: 8863 bytes OK
+2025/09/20-12:37:34.620 75f82 Delete type=0 #39
+2025/09/20-12:37:34.621 75f82 Compacting 4@0 + 1@1 files
+2025/09/20-12:37:34.624 75f82 Generated table #44@0: 10 keys, 814 bytes
+2025/09/20-12:37:34.624 75f82 Compacted 4@0 + 1@1 files => 814 bytes
+2025/09/20-12:37:34.626 75f82 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/20-12:37:34.626 75f82 Delete type=2 #38
+2025/09/20-12:37:34.626 75f82 Delete type=2 #43
+2025/09/20-12:37:34.627 75f82 Delete type=2 #34
+2025/09/20-12:37:34.627 75f82 Delete type=2 #40
+2025/09/20-12:37:34.627 75f82 Delete type=2 #36
+2025/09/21-22:46:33.955 75f82 Level-0 table #46: started
+2025/09/21-22:46:33.959 75f82 Level-0 table #46: 8424 bytes OK
+2025/09/21-22:46:33.962 75f82 Delete type=0 #42
+2025/09/22-05:15:33.958 75f82 Level-0 table #48: started
+2025/09/22-05:15:33.965 75f82 Level-0 table #48: 8370 bytes OK
+2025/09/22-05:15:33.969 75f82 Delete type=0 #45

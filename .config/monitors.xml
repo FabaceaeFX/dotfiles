@@ -1,0 +1,149 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP">
+          <vendor>LEN</vendor>
+          <product>0x40ad</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>2160</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="HDMI-A-0">
+      </output>
+      <output name="DisplayPort-0">
+      </output>
+      <output name="DisplayPort-1">
+      </output>
+      <output name="DisplayPort-2">
+          <vendor>GSM</vendor>
+          <product>0x5b08</product>
+          <serial>0x000460df</serial>
+          <width>3840</width>
+          <height>2160</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DisplayPort-3">
+          <vendor>GSM</vendor>
+          <product>0x5b08</product>
+          <serial>0x0000e257</serial>
+          <width>3840</width>
+          <height>2160</height>
+          <rate>60</rate>
+          <x>3840</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DisplayPort-4">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP">
+          <vendor>LEN</vendor>
+          <product>0x40ad</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>347</x>
+          <y>2160</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="HDMI-A-0">
+      </output>
+      <output name="DisplayPort-0">
+      </output>
+      <output name="DisplayPort-1">
+      </output>
+      <output name="DisplayPort-2">
+          <vendor>GSM</vendor>
+          <product>0x5b08</product>
+          <serial>0x0000e257</serial>
+          <width>3840</width>
+          <height>2160</height>
+          <rate>60</rate>
+          <x>3840</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DisplayPort-3">
+          <vendor>GSM</vendor>
+          <product>0x5b08</product>
+          <serial>0x000460df</serial>
+          <width>3840</width>
+          <height>2160</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DisplayPort-4">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>no</clone>
+      <output name="eDP">
+          <vendor>LEN</vendor>
+          <product>0x40ad</product>
+          <serial>0x00000000</serial>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>2160</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+      <output name="HDMI-A-0">
+      </output>
+      <output name="DisplayPort-0">
+      </output>
+      <output name="DisplayPort-1">
+      </output>
+      <output name="DisplayPort-2">
+          <vendor>GSM</vendor>
+          <product>0x5b08</product>
+          <serial>0x0000e257</serial>
+          <width>3840</width>
+          <height>2160</height>
+          <rate>60</rate>
+          <x>60</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DisplayPort-3">
+      </output>
+      <output name="DisplayPort-4">
+      </output>
+  </configuration>
+</monitors>

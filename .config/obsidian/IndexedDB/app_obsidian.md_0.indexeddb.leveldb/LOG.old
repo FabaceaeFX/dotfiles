@@ -1,0 +1,12 @@
+2025/12/26-11:15:45.270 ade Reusing MANIFEST /home/fabaceae/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/26-11:15:45.270 ade Recovering log #74
+2025/12/26-11:15:45.280 ade Reusing old log /home/fabaceae/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000074.log 
+2025/12/26-12:03:12.750 adf Level-0 table #79: started
+2025/12/26-12:03:12.771 adf Level-0 table #79: 1417999 bytes OK
+2025/12/26-12:03:12.773 adf Delete type=0 #74
+2025/12/26-12:05:05.733 bbb Compacting 1@1 + 1@2 files
+2025/12/26-12:05:05.740 bbb Generated table #80@1: 1531 keys, 178239 bytes
+2025/12/26-12:05:05.740 bbb Compacted 1@1 + 1@2 files => 178239 bytes
+2025/12/26-12:05:05.741 bbb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/26-12:05:05.741 bbb Delete type=2 #76
+2025/12/26-12:05:05.741 bbb Delete type=2 #79
