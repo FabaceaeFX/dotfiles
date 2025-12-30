@@ -1,7 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
-alias configs='/usr/bin/git --git-dir=$HOME/configs.git/ --work-tree=$HOME'
+
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 export APCA_API_KEY_ID="AKSYUJVRIWBQ3OA4N2PDYKLXDL"
@@ -57,9 +57,11 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshconfig="$HOME/.zshrc"
+alias ohmyzsh="$HOME/.oh-my-zsh"
 alias librewolf='flatpak run io.gitlab.librewolf-community'
+alias configs='/usr/bin/git --git-dir=$HOME/configs.git/ --work-tree=$HOME'
+alias ipython='python3 -m IPython'
 
 export PATH="$PATH:/home/fabaceae/.local/bin"
 export PATH="$PATH":"$HOME/.local/scripts/"
@@ -71,4 +73,3 @@ xinput --disable "ELAN Touchscreen"
 # Sessionizer keybinding - This is the key one you're missing!
 # Note: zsh uses bindkey instead of bind
 bindkey -s '^f' 'tmux-sessionizer\n'
-alias ipython='python3 -m IPython'
