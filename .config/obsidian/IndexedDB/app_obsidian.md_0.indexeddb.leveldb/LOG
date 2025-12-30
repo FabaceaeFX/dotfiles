@@ -13,3 +13,9 @@
 2025/12/28-12:54:33.109 ac0 Level-0 table #86: started
 2025/12/28-12:54:33.131 ac0 Level-0 table #86: 1419125 bytes OK
 2025/12/28-12:54:33.134 ac0 Delete type=0 #82
+2025/12/29-13:35:09.204 abf Compacting 1@1 + 1@2 files
+2025/12/29-13:35:09.219 abf Generated table #87@1: 1607 keys, 185864 bytes
+2025/12/29-13:35:09.220 abf Compacted 1@1 + 1@2 files => 185864 bytes
+2025/12/29-13:35:09.221 abf compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/29-13:35:09.221 abf Delete type=2 #86
+2025/12/29-13:35:09.221 abf Delete type=2 #84

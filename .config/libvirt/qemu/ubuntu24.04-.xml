@@ -69,6 +69,12 @@ or other application using the libvirt API.
       <address type='pci' domain='0x0000' bus='0x00' slot='0x1f' function='0x2'/>
     </controller>
     <controller type='pci' index='0' model='pcie-root'/>
+    <controller type='virtio-serial' index='0'>
+      <address type='pci' domain='0x0000' bus='0x03' slot='0x00' function='0x0'/>
+    </controller>
+    <controller type='ccid' index='0'>
+      <address type='usb' bus='0' port='1'/>
+    </controller>
     <controller type='pci' index='1' model='pcie-root-port'>
       <model name='pcie-root-port'/>
       <target chassis='1' port='0x10'/>
@@ -98,12 +104,6 @@ or other application using the libvirt API.
       <model name='pcie-root-port'/>
       <target chassis='6' port='0x15'/>
       <address type='pci' domain='0x0000' bus='0x00' slot='0x02' function='0x5'/>
-    </controller>
-    <controller type='virtio-serial' index='0'>
-      <address type='pci' domain='0x0000' bus='0x03' slot='0x00' function='0x0'/>
-    </controller>
-    <controller type='ccid' index='0'>
-      <address type='usb' bus='0' port='1'/>
     </controller>
     <interface type='user'>
       <mac address='52:54:00:7c:ad:7b'/>

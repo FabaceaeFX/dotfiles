@@ -14,6 +14,11 @@ sudo add-apt-repository ppa:neovim-ppa/unstable -y
 sudo apt update
 sudo apt install -y neovim
 
-# Source .zshrc to apply changes
-echo "sourcing .zshrc..."
-source ~/.zshrc
+# Change the default shell to Zsh
+echo "Changing default shell to Zsh..."
+chsh -s $(which zsh)
+
+# Source .zshrc in a Zsh session
+echo "Sourcing .zshrc in Zsh..."
+zsh -c "source ~/.zshrc"
+
