@@ -22,3 +22,5 @@ XTerm*VT100.Translations: #override \
     Shift Ctrl <Key>C: copy-selection(CLIPBOARD) \n\
     Shift Ctrl <Key>V: insert-selection(CLIPBOARD)
 
+xterm*selectToClipboard: true
+xterm*keepSelection: true   
