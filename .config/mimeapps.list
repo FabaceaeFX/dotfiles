@@ -1,10 +1,27 @@
 [Default Applications]
-text/html=firefox_firefox.desktop
-x-scheme-handler/http=firefox_firefox.desktop
-x-scheme-handler/https=firefox_firefox.desktop
+text/html=userapp-Zen-WGOAI3.desktop
+x-scheme-handler/http=userapp-Zen-WGOAI3.desktop
+x-scheme-handler/https=userapp-Zen-WGOAI3.desktop
 x-scheme-handler/about=firefox_firefox.desktop
 x-scheme-handler/unknown=firefox_firefox.desktop
 application/pdf=libreoffice-draw.desktop
+x-scheme-handler/chrome=userapp-Zen-WGOAI3.desktop
+application/x-extension-htm=userapp-Zen-WGOAI3.desktop
+application/x-extension-html=userapp-Zen-WGOAI3.desktop
+application/x-extension-shtml=userapp-Zen-WGOAI3.desktop
+application/xhtml+xml=userapp-Zen-WGOAI3.desktop
+application/x-extension-xhtml=userapp-Zen-WGOAI3.desktop
+application/x-extension-xht=userapp-Zen-WGOAI3.desktop
 
 [Added Associations]
 application/pdf=libreoffice-draw.desktop;
+x-scheme-handler/http=userapp-Zen-WGOAI3.desktop;
+x-scheme-handler/https=userapp-Zen-WGOAI3.desktop;
+x-scheme-handler/chrome=userapp-Zen-WGOAI3.desktop;
+text/html=userapp-Zen-WGOAI3.desktop;
+application/x-extension-htm=userapp-Zen-WGOAI3.desktop;
+application/x-extension-html=userapp-Zen-WGOAI3.desktop;
+application/x-extension-shtml=userapp-Zen-WGOAI3.desktop;
+application/xhtml+xml=userapp-Zen-WGOAI3.desktop;
+application/x-extension-xhtml=userapp-Zen-WGOAI3.desktop;
+application/x-extension-xht=userapp-Zen-WGOAI3.desktop;
